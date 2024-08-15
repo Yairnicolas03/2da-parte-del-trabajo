@@ -1,0 +1,9 @@
+C:\Users\Yair\source\repos\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Yair\source\repos\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\Yair\source\repos\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Yair\source\repos\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\Yair\source\repos\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Yair\source\repos\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\Yair\source\repos\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\Yair\source\repos\CRUD\CRUD\obj\Debug\CRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yair\source\repos\CRUD\CRUD\obj\Debug\CRUD.exe.config

@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yair\\source\\repos\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|C:\\Users\\Yair\\source\\repos\\CRUD\\crud\\datos\\datosusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|solutionrelative:crud\\datos\\datosusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|C:\\Users\\Yair\\source\\repos\\CRUD\\crud\\datos\\datoscarreras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|solutionrelative:crud\\datos\\datoscarreras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|C:\\Users\\Yair\\source\\repos\\CRUD\\crud\\clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|solutionrelative:crud\\clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|C:\\Users\\Yair\\source\\repos\\CRUD\\crud\\datos\\carreralastid.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|solutionrelative:crud\\datos\\carreralastid.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|C:\\Users\\Yair\\source\\repos\\CRUD\\crud\\datos\\json1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|solutionrelative:crud\\datos\\json1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|C:\\Users\\Yair\\source\\repos\\CRUD\\crud\\clases\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|solutionrelative:crud\\clases\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|C:\\Users\\Yair\\source\\repos\\CRUD\\crud\\datos\\usuariolastid.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|solutionrelative:crud\\datos\\usuariolastid.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|C:\\Users\\Yair\\source\\repos\\CRUD\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|C:\\Users\\Yair\\source\\repos\\CRUD\\crud\\interfaces\\icarrera1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|solutionrelative:crud\\interfaces\\icarrera1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|c:\\users\\yair\\source\\repos\\crud\\crud\\interfaces\\iabmc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|solutionrelative:crud\\interfaces\\iabmc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|C:\\Users\\Yair\\source\\repos\\CRUD\\crud\\interfaces\\iid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|solutionrelative:crud\\interfaces\\iid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|C:\\Users\\Yair\\source\\repos\\CRUD\\crud\\interfaces\\iaccesoadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|solutionrelative:crud\\interfaces\\iaccesoadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|C:\\Users\\Yair\\source\\repos\\CRUD\\crud\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4F5CAA-9FFF-45EC-833F-24C1087A9132}|CRUD\\CRUD.csproj|solutionrelative:crud\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Clases\\Carrera.cs",
+              "RelativeDocumentMoniker": "CRUD\\Clases\\Carrera.cs",
+              "ToolTip": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Clases\\Carrera.cs",
+              "RelativeToolTip": "CRUD\\Clases\\Carrera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:49:57.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "json1.json",
+              "DocumentMoniker": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Datos\\json1.json",
+              "RelativeDocumentMoniker": "CRUD\\Datos\\json1.json",
+              "ToolTip": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Datos\\json1.json",
+              "RelativeToolTip": "CRUD\\Datos\\json1.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T19:16:55.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarreraLastID.txt",
+              "DocumentMoniker": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Datos\\CarreraLastID.txt",
+              "RelativeDocumentMoniker": "CRUD\\Datos\\CarreraLastID.txt",
+              "ToolTip": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Datos\\CarreraLastID.txt",
+              "RelativeToolTip": "CRUD\\Datos\\CarreraLastID.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-14T18:58:52.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Clases\\Usuario.cs",
+              "RelativeDocumentMoniker": "CRUD\\Clases\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Clases\\Usuario.cs",
+              "RelativeToolTip": "CRUD\\Clases\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:35:03.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatosCarreras.cs",
+              "DocumentMoniker": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Datos\\DatosCarreras.cs",
+              "RelativeDocumentMoniker": "CRUD\\Datos\\DatosCarreras.cs",
+              "ToolTip": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Datos\\DatosCarreras.cs",
+              "RelativeToolTip": "CRUD\\Datos\\DatosCarreras.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:58:15.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatosUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Datos\\DatosUsuario.cs",
+              "RelativeDocumentMoniker": "CRUD\\Datos\\DatosUsuario.cs",
+              "ToolTip": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Datos\\DatosUsuario.cs",
+              "RelativeToolTip": "CRUD\\Datos\\DatosUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:27:15.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "usuarioLastID.txt",
+              "DocumentMoniker": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Datos\\usuarioLastID.txt",
+              "RelativeDocumentMoniker": "CRUD\\Datos\\usuarioLastID.txt",
+              "ToolTip": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Datos\\usuarioLastID.txt",
+              "RelativeToolTip": "CRUD\\Datos\\usuarioLastID.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-13T19:24:58.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Program.cs",
+              "RelativeToolTip": "CRUD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:51:42.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IABMC.cs",
+              "DocumentMoniker": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Interfaces\\IABMC.cs",
+              "RelativeDocumentMoniker": "CRUD\\Interfaces\\IABMC.cs",
+              "ToolTip": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Interfaces\\IABMC.cs",
+              "RelativeToolTip": "CRUD\\Interfaces\\IABMC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:41:19.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Icarrera1.cs",
+              "DocumentMoniker": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Interfaces\\Icarrera1.cs",
+              "RelativeDocumentMoniker": "CRUD\\Interfaces\\Icarrera1.cs",
+              "ToolTip": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Interfaces\\Icarrera1.cs",
+              "RelativeToolTip": "CRUD\\Interfaces\\Icarrera1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:50:07.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IID.cs",
+              "DocumentMoniker": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Interfaces\\IID.cs",
+              "RelativeDocumentMoniker": "CRUD\\Interfaces\\IID.cs",
+              "ToolTip": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Interfaces\\IID.cs",
+              "RelativeToolTip": "CRUD\\Interfaces\\IID.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T23:35:14.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IaccesoADatos.cs",
+              "DocumentMoniker": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Interfaces\\IaccesoADatos.cs",
+              "RelativeDocumentMoniker": "CRUD\\Interfaces\\IaccesoADatos.cs",
+              "ToolTip": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Interfaces\\IaccesoADatos.cs",
+              "RelativeToolTip": "CRUD\\Interfaces\\IaccesoADatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:16:44.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Interfaces\\IUsuario.cs",
+              "RelativeDocumentMoniker": "CRUD\\Interfaces\\IUsuario.cs",
+              "ToolTip": "C:\\Users\\Yair\\source\\repos\\CRUD\\CRUD\\Interfaces\\IUsuario.cs",
+              "RelativeToolTip": "CRUD\\Interfaces\\IUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:31:40.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
